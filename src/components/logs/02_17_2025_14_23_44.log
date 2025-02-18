@@ -1,0 +1,10 @@
+[ 2025-02-17 14:23:45,790 ] 25 root - INFO - Starting the data ingestion process...
+[ 2025-02-17 14:23:45,795 ] 36 root - INFO - Dataset loaded successfully.
+[ 2025-02-17 14:23:45,803 ] 40 root - INFO - Raw data saved successfully.
+[ 2025-02-17 14:23:45,808 ] 46 root - INFO - Data ingestion process completed successfully.
+[ 2025-02-17 14:23:45,811 ] 72 root - INFO - Train and test data loaded successfully.
+[ 2025-02-17 14:23:45,812 ] 83 root - INFO - Applying data transformation...
+[ 2025-02-17 14:23:45,812 ] 53 root - INFO - Numerical and categorical pipelines created.
+[ 2025-02-17 14:23:45,828 ] 96 root - INFO - Data transformation completed.
+[ 2025-02-17 14:23:45,833 ] 28 root - INFO - Splitting training and test input data
+[ 2025-02-17 14:24:28,911 ] 89 root - INFO - Best Model: Linear Regression with Test Score: 0.8795527005807551
